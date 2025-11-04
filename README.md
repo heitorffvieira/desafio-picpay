@@ -19,6 +19,8 @@ Repositório original do desafio:
 - **H2 Database**
 - **Maven**
 - **Lombok**
+- **Spring Web**
+- **Dev Tools**
 
 ---
 
